@@ -16,7 +16,7 @@
 - Innovative problem-solving using Flutter and Python
 
 ## 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/maheswari-medari-2a378723b/)  
+- [LinkedIn](https://www.linkedin.com/in/maheswari-medari-2a378723b/)  
 - [Email](mailto:tmmaheswari24@gmail.com)
 
 ## 😄 Pronouns:
