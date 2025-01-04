@@ -9,7 +9,7 @@
 
 ### 🌱 I’m currently learning:
 - Advanced Flutter development  
-- Integrating machine learning with mobile applications  
+- Integrating mobile applications  
 - Enhancing UI/UX design skills  
 
 ### 💞️ I’m looking to collaborate on:
